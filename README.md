@@ -1,2 +1,2 @@
-# zpm-metrics-service
+# zpe-metrics-service
 Kompletna implementacija MetricsService servisa
